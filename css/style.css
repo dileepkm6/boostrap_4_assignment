@@ -13,3 +13,18 @@ html,body
     display:flex;
     align-items: center;
 }
+#cover-caption
+{
+    width: 100%;
+    padding-left:40px;
+}
+
+.section-content
+{
+    padding:5rem 0rem;
+}
+.card-img-top
+{
+    width:368.6px;
+    height:23.04rem;
+}
