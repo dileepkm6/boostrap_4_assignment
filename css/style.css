@@ -8,9 +8,9 @@ menu{
 }
 #cover
 {
-    background: #222 url('../img/stars.jpg') center center no-repeat;
+    background: #222 url('../img/banner1.jpg') center center no-repeat;
     background-size: cover;
-    color: white;
+    color: black;
     height:100%;
     text-align: center;
     display:flex;
@@ -21,11 +21,13 @@ menu{
     width: 100%;
     
 }
-#cover-caption .col-sm-10
+#cover-caption .col-sm-12
 {
     
     align-items: center;
+    margin: auto;
 }
+
 #downArrow
 {
     border: 1px solid white;
