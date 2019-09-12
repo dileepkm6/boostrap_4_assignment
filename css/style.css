@@ -19,8 +19,27 @@ menu{
 #cover-caption
 {
     width: 100%;
-    padding-left:40px;
+    
 }
+#cover-caption .col-sm-10
+{
+    
+    align-items: center;
+    padding-left: 100px;
+}
+#downArrow
+{
+    border: 1px solid white;
+}
+
+/*Carousel section */
+
+.carousel-item img
+{
+    height:720px;
+}
+
+
 
 .section-content
 {
